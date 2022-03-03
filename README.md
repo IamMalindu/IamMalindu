@@ -1,6 +1,5 @@
- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d219666d6b0e00b0402507774c605aeb2ec85ac68ec503c525b3cd1666a03fef/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f30594c4d4e596d47794d6663715258316a312f736f757263652e676966">
- 
-<h1 align="center">Hi 👋, I'm MALINDU NIMSARA (DARK-Devil)</h1>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d219666d6b0e00b0402507774c605aeb2ec85ac68ec503c525b3cd1666a03fef/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f30594c4d4e596d47794d6663715258316a312f736f757263652e676966">
+ <h1 align="center">Hi 👋, I'm MALINDU NIMSARA (DARK-Devil)</h1>
 <h3 align="center">A passionate frontend developer from SRI LANKA🇱🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malindunimsara&label=Profile%20views&color=0e75b6&style=flat" alt="malindunimsara" /> </p>
