@@ -2,7 +2,7 @@
 🎇 G.C.E. A/L Physical Science-ICT Student <br>
 🌱 I’m currently learning Python,Web Dev. & Cloud Computing <br>
 🎃 18 Years Old <br>
-🎆Solitary Learner <br>
+🎆 Solitary Learner <br>
 
 
 ## 🌐 Socials:
