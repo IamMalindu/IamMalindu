@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎇 G.C.E. A/L Physical Science Student <br>
-🌱 I’m currently learning Python,Web Dev. & Cloud Computing <br>
+🌱 I’m currently learning Python, Web Dev. & Scientific Computing <br>
 🎃 19 Years Old <br>
 🎆 Solitary Learner <br>
 
